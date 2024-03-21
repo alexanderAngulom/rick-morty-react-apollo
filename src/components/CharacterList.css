@@ -1,0 +1,11 @@
+.character-card {
+    margin-bottom: 50px;
+}
+
+.character-card img {
+    width: 100%;
+}
+
+.character-card-content {
+    padding: 10px;
+}

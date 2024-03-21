@@ -1,0 +1,13 @@
+.character-details-card {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .character-details-card img {
+    width: 100%;
+  }
+  
+  .character-details-card-content {
+    padding: 20px;
+  }
+  
